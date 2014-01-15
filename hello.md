@@ -1,9 +1,9 @@
 자기소개
 ------------------
-이름 :
+이름 : 김한주
 
-팀 :
+팀 : 커머스운영팀
 
-Github ID :
+Github ID : zupper77  
 
-E-mail :
+E-mail : zupper@wemakeprice.com
